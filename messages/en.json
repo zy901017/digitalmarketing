@@ -1,0 +1,242 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "caseStudies": "Case Studies",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "footer": {
+    "tagline": "Helping Adelaide businesses grow with data-driven digital marketing",
+    "location": "Adelaide, South Australia",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "getStarted": "Get Started",
+    "rights": "All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "title": "Grow Your Adelaide Business with Digital Marketing That Works",
+      "subtitle": "Get more leads and sales without wasting budget. Specialising in Google Ads, Facebook Ads, and conversion tracking for local trades and home services.",
+      "cta": "Get Your Free Marketing Audit"
+    },
+    "trustBadges": {
+      "title": "Trusted Platforms We Work With"
+    },
+    "howItWorks": {
+      "title": "How We Help You Grow",
+      "step1": {
+        "title": "Free Audit",
+        "description": "We analyze your current marketing, find what's working and what's wasting money"
+      },
+      "step2": {
+        "title": "Custom Plan",
+        "description": "Get a clear strategy tailored to your business goals and budget"
+      },
+      "step3": {
+        "title": "Optimize & Scale",
+        "description": "We run and improve your campaigns while you focus on your business"
+      }
+    },
+    "services": {
+      "title": "Services Built for Adelaide Trades & Home Services",
+      "subtitle": "Everything you need to turn clicks into customers"
+    },
+    "caseStudies": {
+      "title": "Real Results from Real Adelaide Businesses",
+      "viewAll": "View All Case Studies"
+    },
+    "testimonials": {
+      "title": "What Our Clients Say"
+    },
+    "faq": {
+      "title": "Common Questions"
+    },
+    "risk": {
+      "title": "Zero Risk, Real Results",
+      "item1": "Free marketing audit - no strings attached",
+      "item2": "No lock-in contracts",
+      "item3": "Reply within 1 business day"
+    },
+    "finalCTA": {
+      "title": "Ready to Grow Your Business?",
+      "subtitle": "Get your free marketing audit and custom growth plan",
+      "cta": "Book Your Free Strategy Call"
+    }
+  },
+  "services": {
+    "meta": {
+      "title": "Digital Marketing Services - Adelaide",
+      "description": "Expert Google Ads, Facebook Ads, SEO, and conversion tracking for Adelaide businesses"
+    },
+    "hero": {
+      "title": "Services That Deliver Results",
+      "subtitle": "Complete digital marketing solutions for Adelaide businesses"
+    },
+    "googleAds": {
+      "title": "Google Ads Management",
+      "description": "Show up when customers search for your services. Get qualified leads ready to book.",
+      "features": [
+        "Search Ads",
+        "Local Service Ads",
+        "Google Maps",
+        "Remarketing"
+      ]
+    },
+    "facebookAds": {
+      "title": "Facebook & Instagram Ads",
+      "description": "Reach your ideal customers where they spend time. Build awareness and drive conversions.",
+      "features": [
+        "Lead Generation",
+        "Brand Awareness",
+        "Retargeting",
+        "Lookalike Audiences"
+      ]
+    },
+    "seo": {
+      "title": "Local SEO",
+      "description": "Get found organically when people search for your services in Adelaide.",
+      "features": [
+        "Google Business Profile",
+        "Local Citations",
+        "On-Page SEO",
+        "Content Strategy"
+      ]
+    },
+    "analytics": {
+      "title": "Analytics & Tracking",
+      "description": "Know exactly what's working. Track leads, sales, and ROI accurately.",
+      "features": [
+        "GA4 Setup",
+        "Conversion Tracking",
+        "Call Tracking",
+        "Custom Dashboards"
+      ]
+    },
+    "landingPages": {
+      "title": "Landing Pages",
+      "description": "High-converting pages designed to turn traffic into leads and customers.",
+      "features": [
+        "Mobile-First Design",
+        "A/B Testing",
+        "Fast Loading",
+        "Lead Forms"
+      ]
+    },
+    "cro": {
+      "title": "Conversion Optimization",
+      "description": "Get more from your existing traffic. Improve conversion rates across your funnel.",
+      "features": [
+        "User Testing",
+        "Heatmaps",
+        "Form Optimization",
+        "Split Testing"
+      ]
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "About Us - Adelaide Digital Marketing",
+      "description": "Experienced digital marketing specialist helping Adelaide businesses grow online"
+    },
+    "hero": {
+      "title": "Hi, I'm Your Digital Marketing Partner",
+      "subtitle": "Helping Adelaide businesses grow online since 2018"
+    }
+  },
+  "pricing": {
+    "meta": {
+      "title": "Pricing - Adelaide Digital Marketing",
+      "description": "Transparent pricing for digital marketing services. No lock-in contracts."
+    },
+    "hero": {
+      "title": "Simple, Transparent Pricing",
+      "subtitle": "Pay for what you need, cancel anytime"
+    }
+  },
+  "caseStudies": {
+    "meta": {
+      "title": "Case Studies - Digital Marketing Results",
+      "description": "See real results from Adelaide businesses we've helped grow"
+    },
+    "hero": {
+      "title": "Success Stories",
+      "subtitle": "Real campaigns, real results"
+    },
+    "filters": {
+      "all": "All Industries",
+      "allServices": "All Services"
+    },
+    "details": {
+      "industry": "Industry",
+      "services": "Services",
+      "results": "Results",
+      "snapshot": "Project Snapshot",
+      "problem": "The Challenge",
+      "strategy": "Our Strategy",
+      "execution": "Execution Timeline",
+      "outcome": "Results",
+      "tools": "Tools Used",
+      "cta": "Want Similar Results?",
+      "ctaButton": "Book a Free Audit"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact - Get Your Free Marketing Audit",
+      "description": "Get in touch for a free marketing audit and custom strategy"
+    },
+    "hero": {
+      "title": "Let's Grow Your Business",
+      "subtitle": "Tell us about your business and goals"
+    },
+    "info": {
+      "title": "Get in Touch",
+      "description": "Fill out the form and I'll get back to you within 1 business day with a free audit of your current marketing.",
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location",
+      "hours": "Response Time",
+      "hoursValue": "Within 1 business day"
+    }
+  },
+  "form": {
+    "name": "Your Name",
+    "email": "Email Address",
+    "website": "Website (optional)",
+    "goal": "Primary Goal",
+    "selectGoal": "Select your main goal",
+    "goals": {
+      "leads": "Get More Leads",
+      "sales": "Increase Sales",
+      "tracking": "Fix Tracking Issues",
+      "ads": "Improve Ad Performance"
+    },
+    "submit": "Get My Free Audit",
+    "sending": "Sending...",
+    "success": {
+      "title": "Thank You!",
+      "message": "I've received your request and will be in touch within 1 business day.",
+      "response": "Check your email for next steps."
+    }
+  },
+  "contactForm": {
+    "company": "Company Name",
+    "phone": "Phone Number",
+    "budget": {
+      "under1k": "Under $1,000",
+      "1k3k": "$1,000 - $3,000",
+      "3k5k": "$3,000 - $5,000",
+      "5k10k": "$5,000 - $10,000",
+      "over10k": "$10,000+"
+    },
+    "selectBudget": "Select budget range",
+    "servicesInterested": "Services You're Interested In",
+    "message": "Tell us about your business",
+    "messagePlaceholder": "What are you looking to achieve? What challenges are you facing?",
+    "submit": "Send My Request",
+    "bookCall": "Book a Strategy Call"
+  },
+  "stickyMobileCTA": "Get Free Strategy Call"
+}
