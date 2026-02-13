@@ -158,8 +158,8 @@ export default function HomePage({ params }: { params: { lang: string } }) {
               <h2 className="text-3xl font-display font-bold text-slate-900">{t('home.testimonials.title')}</h2>
               <p className="mt-2 text-slate-600">{t('home.testimonials.subtitle')}</p>
               <div className="mt-6 space-y-4">
-                <Testimonial name={t('home.testimonials.t1Name')} role={t('home.testimonials.t1Role')} content={t('home.testimonials.t1Content')} />
-                <Testimonial name={t('home.testimonials.t2Name')} role={t('home.testimonials.t2Role')} content={t('home.testimonials.t2Content')} />
+                <Testimonial author={t('home.testimonials.t1Name')} role={t('home.testimonials.t1Role')} quote={t('home.testimonials.t1Content')} />
+<Testimonial author={t('home.testimonials.t2Name')} role={t('home.testimonials.t2Role')} quote={t('home.testimonials.t2Content')} />
               </div>
             </div>
             <div>
